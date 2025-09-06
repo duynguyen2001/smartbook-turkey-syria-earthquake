@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunksmartbook_turkey_syria_earthquake"]=self["webpackChunksmartbook_turkey_syria_earthquake"]||[]).push([[738],{738:(a,e,r)=>{r.r(e),r.d(e,{default:()=>l});var s=r(641);const n={class:"ukraine-list-view"};function t(a,e,r,t,k,u){return(0,s.uX)(),(0,s.CE)("div",n,[...e[0]||(e[0]=[(0,s.Lk)("h1",null,"Ukraine Analysis Pages",-1),(0,s.Lk)("p",null,"Ukraine-related analysis and reports",-1)])])}const k={name:"UkraineList"};var u=r(262);const i=(0,u.A)(k,[["render",t],["__scopeId","data-v-0a7889b0"]]),l=i}}]);
-//# sourceMappingURL=738.523c0adf.js.map
