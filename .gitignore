@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build tools
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Temporary files
+*.tmp
+*.temp
