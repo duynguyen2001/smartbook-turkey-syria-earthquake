@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksmartbook_turkey_syria_earthquake"]=self["webpackChunksmartbook_turkey_syria_earthquake"]||[]).push([[36],{36:(a,e,t)=>{t.r(e),t.d(e,{default:()=>i});var r=t(641);const s={class:"book-view"};function o(a,e,t,o,n,k){return(0,r.uX)(),(0,r.CE)("div",s,[...e[0]||(e[0]=[(0,r.Lk)("h1",null,"SmartBook",-1),(0,r.Lk)("p",null,"Interactive analysis and visualization platform",-1)])])}const n={name:"Book"};var k=t(262);const u=(0,k.A)(n,[["render",o],["__scopeId","data-v-306240d6"]]),i=u}}]);
+//# sourceMappingURL=36.28760896.js.map
