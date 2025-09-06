@@ -1,0 +1,76 @@
+# SmartBook Turkey-Syria Earthquake Analysis - Cursor Context
+
+## Project Overview
+This is a Vue.js web application that provides interactive analysis and visualization of information related to the Turkey-Syria earthquake disaster. The application has been prepared for deployment to GitHub Pages.
+
+## Environment Setup
+- **No UV environment**: This project doesn't use UV as it's a pre-built Vue.js application
+- **No dependencies to install**: The application is already built and ready for deployment
+- **Git repository**: Already initialized with main branch
+
+## Project Structure
+```
+├── dist/                          # Built Vue.js application (MAIN DEPLOYMENT FOLDER)
+│   ├── index.html                # Entry point
+│   ├── css/, js/, fonts/, img/   # Static assets
+│   ├── pages/                    # Analysis data files (.json)
+│   └── pages-turkey-syria-earthquake/ # Earthquake-specific data
+├── .github/workflows/deploy.yml  # GitHub Actions for auto-deployment
+├── nginx/frontend.conf           # Nginx config for Docker deployment
+├── Dockerfile                    # Docker containerization
+├── babel.config.js              # Babel configuration
+├── .gitignore                   # Git ignore rules
+└── README.md                    # Project documentation
+```
+
+## Deployment Status
+✅ **Completed:**
+- Git repository initialized and files committed
+- GitHub Actions workflow created for automated deployment
+- Project structure organized and unnecessary files removed
+- Documentation created (README.md)
+
+🔄 **Pending User Action:**
+1. Create GitHub repository at https://github.com/new
+2. Add remote origin: `git remote add origin https://github.com/USERNAME/REPO.git`
+3. Push to GitHub: `git push -u origin main`
+4. Configure GitHub Pages in repository Settings > Pages:
+   - Source: "Deploy from a branch"
+   - Branch: "main"
+   - Folder: "/dist"
+
+## Application Features
+- Interactive analysis of Turkey-Syria earthquake disaster
+- Multiple data views and visualizations
+- Citation-supported content
+- Responsive web interface
+- Real-time data exploration
+
+## Deployment Options
+1. **GitHub Pages** (Recommended): Automatic deployment from /dist folder
+2. **Docker**: Use included Dockerfile and nginx config
+3. **Static hosting**: Deploy /dist folder to any static host
+
+## Data Content
+The application includes comprehensive analysis of:
+- Earthquake impact and response
+- International aid coordination
+- Recovery efforts and challenges
+- Related geopolitical implications
+
+## Technical Notes
+- Built Vue.js application (no build process needed)
+- All assets are in /dist folder
+- GitHub Actions handles automatic deployment
+- Mobile-responsive design
+- No server-side requirements
+
+## Next Steps After GitHub Setup
+1. Verify GitHub Pages deployment
+2. Test application functionality
+3. Update README with live URL
+4. Monitor GitHub Actions for successful deployments
+
+Last Updated: [Current Date]
+Project Type: Static Web Application (Vue.js)
+Deployment Target: GitHub Pages
