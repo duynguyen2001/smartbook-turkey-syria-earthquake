@@ -1,2 +1,0 @@
-# Overview
-The governments of Poland, Turkey, Moldova, and the Arab League have all called for de-escalation and restraint in the Ukraine-Russia conflict. China has said that dialogue is needed between all parties, and Turkey has offered to host talks in Istanbul. NATO has not imposed a no-fly zone in the conflict because neither Ukraine nor Russia are members, but the foreign minister of Lithuania has said that NATO needs to be prepared for the possibility that Russia could attack NATO countries.
