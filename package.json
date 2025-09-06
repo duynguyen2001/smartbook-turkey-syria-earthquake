@@ -1,0 +1,29 @@
+{
+  "name": "smartbook-turkey-syria-earthquake",
+  "version": "1.0.0",
+  "description": "Interactive analysis and visualization of Turkey-Syria earthquake disaster information",
+  "main": "dist/index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "predeploy": "echo 'Deploying to GitHub Pages...'",
+    "postdeploy": "echo 'Deployment complete! Check your GitHub Pages URL.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duynguyen2001/smartbook-turkey-syria-earthquake.git"
+  },
+  "keywords": [
+    "earthquake",
+    "turkey",
+    "syria",
+    "disaster-response",
+    "analysis",
+    "visualization"
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://duynguyen2001.github.io/smartbook-turkey-syria-earthquake",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
