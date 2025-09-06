@@ -4,7 +4,7 @@ This is a web application that provides interactive analysis and visualization o
 
 ## 🌐 Live Demo
 
-Visit the live application: [Your GitHub Pages URL will be here after deployment]
+Visit the live application: **https://duynguyen2001.github.io/smartbook-turkey-syria-earthquake/**
 
 ## 📁 Project Structure
 
